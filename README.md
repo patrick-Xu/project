@@ -13,5 +13,5 @@
 
 
 千镇优品社群电商系统
-![Image text](https://github.com/project /微信图片_20181228232339.jpg)
+![Image text](https://github.com/patrick-Xu/project/raw/master/project/code.jpg)
 
