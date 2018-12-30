@@ -13,5 +13,5 @@
 
 
 千镇优品社群电商系统
-![Image text](https://github.com/patrick-Xu/project/raw/master/project/code.jpg)
+![Image text](https://github.com/patrick-Xu/project/raw/master/code.jpg)
 
